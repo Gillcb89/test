@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 changes from local clone take2 ive broken it
 can i fix it
+=======
+changes from local clone take2 ive broken it
+>>>>>>> fd0d5b13edd78630d9edc37065dcb44d2a107e90
